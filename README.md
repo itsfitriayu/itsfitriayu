@@ -21,7 +21,7 @@ Hi my name is Fitri Ayu Cahyaningrum
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&style=flat)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-lightgrey?style=flat-square&logo=bootstrap&style=flat)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap&style=flat)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&style=flat)
 
