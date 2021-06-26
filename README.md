@@ -10,21 +10,21 @@ Hi my name is Fitri Ayu Cahyaningrum
 
 ## Follow me
 
-[![Twitter: taIitast](https://img.shields.io/twitter/follow/taIitast?style=social)](https://twitter.com/itsfitriayu)
+[![Twitter: taIitast](https://img.shields.io/twitter/follow/itsfitriayu?style=social)](https://twitter.com/itsfitriayu)
 
-[![Linkedin: talitastravassos](https://img.shields.io/badge/-talitastravassos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsfitriayu/)](https://www.linkedin.com/in/itsfitriayu/)
+[![Linkedin: itsfitriayu](https://img.shields.io/badge/-itsfitriayu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsfitriayu/)](https://www.linkedin.com/in/itsfitriayu/)
 
-[![GitHub talitastravassos](https://img.shields.io/github/followers/itsfitriayu?label=follow&style=social)](https://github.com/itsfitriayu)
+[![GitHub itsfitriayu](https://img.shields.io/github/followers/itsfitriayu?label=follow&style=social)](https://github.com/itsfitriayu)
 
 ## Languages, Frameworks, Libraries and Tools
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Nodejs](https://img.shields.io/badge/NodeJs-339933.svg?logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-!https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat
+
 
 
 <!--
