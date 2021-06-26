@@ -10,9 +10,9 @@ Hi my name is Fitri Ayu Cahyaningrum
 
 ## Follow me
 
-[![Twitter: taIitast](https://img.shields.io/twitter/follow/itsfitriayu?style=social)](https://twitter.com/itsfitriayu)
-
 [![Linkedin: itsfitriayu](https://img.shields.io/badge/-itsfitriayu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsfitriayu/)](https://www.linkedin.com/in/itsfitriayu/)
+
+[![Twitter: taIitast](https://img.shields.io/twitter/follow/itsfitriayu?style=social)](https://twitter.com/itsfitriayu)
 
 [![GitHub itsfitriayu](https://img.shields.io/github/followers/itsfitriayu?label=follow&style=social)](https://github.com/itsfitriayu)
 
