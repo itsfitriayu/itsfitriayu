@@ -19,11 +19,11 @@ Hi my name is Fitri Ayu Cahyaningrum
 ## Languages, Frameworks, Libraries and Tools
 
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&logoWidth=30)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoWidth=30)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-EEEEEE?style=flat-square&logo=bootstrap&logoWidth=30)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoWidth=30)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoWidth=30)
 
 
 
