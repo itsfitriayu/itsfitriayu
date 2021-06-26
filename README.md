@@ -16,7 +16,7 @@ Hi my name is Fitri Ayu Cahyaningrum
 
 [![GitHub itsfitriayu](https://img.shields.io/github/followers/itsfitriayu?label=follow&style=social)](https://github.com/itsfitriayu)
 
-## Languages, Frameworks, Libraries and Tools
+## Tech Stack
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&style=flat)
