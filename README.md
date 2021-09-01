@@ -16,13 +16,13 @@ Hi my name is Fitri Ayu Cahyaningrum
 
 [![GitHub itsfitriayu](https://img.shields.io/github/followers/itsfitriayu?label=follow&style=social)](https://github.com/itsfitriayu)
 
+<!--
 ## Tech Stack
-
-
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&style=flat)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-E8E8E8?style=flat-square&logo=bootstrap&style=flat)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&style=flat)
+-->
 
 
 
