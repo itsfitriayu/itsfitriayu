@@ -8,13 +8,13 @@ You can click the Preview link to take a look at your changes.
 
 Hi my name is Fitri Ayu Cahyaningrum
 
-## Follow me
+## Reach me out!
 
 [![Linkedin: itsfitriayu](https://img.shields.io/badge/-itsfitriayu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsfitriayu/)](https://www.linkedin.com/in/itsfitriayu/)
 
 [![Twitter: taIitast](https://img.shields.io/twitter/follow/itsfitriayu?style=social)](https://twitter.com/itsfitriayu)
 
-[![GitHub itsfitriayu](https://img.shields.io/github/followers/itsfitriayu?label=follow&style=social)](https://github.com/itsfitriayu)
+<!-- [![GitHub itsfitriayu](https://img.shields.io/github/followers/itsfitriayu?label=follow&style=social)](https://github.com/itsfitriayu)-->
 
 <!--
 ## Tech Stack
@@ -24,11 +24,11 @@ Hi my name is Fitri Ayu Cahyaningrum
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&style=flat)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsfitriayu&layout=compact&theme=buefy&border_color=141E61)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsfitriayu&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsfitriayu&show_icons=true&theme=buefy&border_color=141E61)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsfitriayu&show_icons=true&theme=buefy)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itsfitriayu&theme=buefy&border=141E61)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itsfitriayu&theme=buefy)](https://git.io/streak-stats)
 
 <!--
 
