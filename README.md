@@ -24,11 +24,11 @@ Hi my name is Fitri Ayu Cahyaningrum
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&style=flat)
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsfitriayu&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsfitriayu&layout=compact&theme=omni)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsfitriayu&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsfitriayu&show_icons=true&theme=omni)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itsfitriayu&theme=dracula)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itsfitriayu&theme=omni)
 
 <!--
 
