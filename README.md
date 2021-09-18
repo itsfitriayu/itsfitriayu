@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-## Hi there 👋
+## Hi there 👋🏻
 
 Hi my name is Fitri Ayu Cahyaningrum
 
