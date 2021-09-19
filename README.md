@@ -11,10 +11,9 @@ Hi my name is Fitri Ayu Cahyaningrum
 ## Reach me out!
 
 [![Linkedin: itsfitriayu](https://img.shields.io/badge/-itsfitriayu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsfitriayu/)](https://www.linkedin.com/in/itsfitriayu/)
-
 [![Twitter: taIitast](https://img.shields.io/twitter/follow/itsfitriayu?style=social)](https://twitter.com/itsfitriayu)
-
-<!-- [![GitHub itsfitriayu](https://img.shields.io/github/followers/itsfitriayu?label=follow&style=social)](https://github.com/itsfitriayu)-->
+[![GitHub itsfitriayu](https://img.shields.io/github/followers/itsfitriayu?label=follow&style=social)](https://github.com/itsfitriayu)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=itsfitriayu)](https://github.com/itsfitriayu)
 
 <!--
 ## Tech Stack
@@ -25,12 +24,12 @@ Hi my name is Fitri Ayu Cahyaningrum
 -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsfitriayu&show_icons=true&theme=ocean_dark&border_color=764D9C)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsfitriayu&show_icons=true&theme=nightowl&border_color=A77ECB)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itsfitriayu&theme=tokyonight&border=764D9C)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsfitriayu&layout=compact&theme=tokyonight&border_color=764D9C)
-<!--
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itsfitriayu&theme=nightowl&border=A77ECB)
 
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsfitriayu&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsfitriayu&layout=compact&theme=tokyonight&border_color=764D9C)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
