@@ -21,7 +21,7 @@ Hi my name is Fitri Ayu Cahyaningrum
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&style=flat)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-E8E8E8?style=flat-square&logo=bootstrap&style=flat)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&style=flat)
--->
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsfitriayu&show_icons=true&theme=nightowl&border_color=A77ECB)
@@ -40,5 +40,4 @@ Hi my name is Fitri Ayu Cahyaningrum
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 
